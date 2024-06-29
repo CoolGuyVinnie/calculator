@@ -1,0 +1,1 @@
+As of 6-28-24, I am beginning a calculator clone as an assignment for The Odin Project.
